@@ -1,0 +1,1 @@
+@javac -depend DEMmain.java

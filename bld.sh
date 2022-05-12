@@ -1,2 +1,2 @@
 #!/bin/bash
-javac -depend DEMmain.java
+javac DEMmain.java
